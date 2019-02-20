@@ -4,3 +4,4 @@
 .texto_inferior_h1{font-family: 'Rajdhani', sans-serif !important;font-size: 24px;text-align: right;padding-right: 24px;margin-top: 3px;}
 .image_back_asty1{background-size: cover;}
 .image_back_asty2{background-size: 710px;background-attachment: fixed;}
+.image_back_asty1 br,.image_back_asty2 br{display:none;}
