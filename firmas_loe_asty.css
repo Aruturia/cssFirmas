@@ -5,7 +5,7 @@
 .mar_kf{height: 250px; width: 500px;background-position: 0% 50%;overflow:hidden;background-color: rgba(0,0,0,0); position:relative; transition: all ease 2s; background-size: 90%;background-repeat: no-repeat;margin: 0 auto;}
 .mar_kf:hover{background-position: -380% 50%;background-color:rgba(0,0,0,1)}
 
-.mar_kf *{transition: all ease 6s;}
+.mar_kf *{transition: all ease 4.5s;}
 .mar_kf,.kyu_mf{;background-blend-mode: luminosity;}
 
 .kyu_mf{right:-80%; background-position: 50% 0%; height: 250px; width:500px; position: absolute;background-color: rgba(0,0,0,1); background-size: 110%; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
