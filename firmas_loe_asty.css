@@ -19,6 +19,8 @@
 .mar_kf:hover .kyu_mf{background-position: 25% 0%; right: 0%;background-size: 140%;background-color: rgba(0,0,0,0);}
 .mar_kf:hover .kyu_mf p{opacity: .7; left: 120px;}
 
-.mar_kf .kyu_mf p:after{content:'Kyuko Madarame'; position: absolute; top:-32px;}
+.mar_kf p:after{content: 'José de San Martín';position: absolute;top: -16px;color: #fff;font-size: 24px;
+width: 250px;right: 0;text-align: right;}
+.mar_kf .kyu_mf p:after{content:'Kyuko Madarame';}
 
 .kyu_f{mix-blend-mode: lighten;font-family:'Megrim', cursive;text-align:center;color:#444;background:#fff;width:20%;padding:80px 0;font-size:20px;line-height:30px;}.kyu_f div{font-size:36px;}
