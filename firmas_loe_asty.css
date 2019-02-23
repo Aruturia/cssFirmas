@@ -6,6 +6,8 @@
  position:relative; transition: all ease 2.5s; background-size: 90%;background-repeat: no-repeat;margin: 0 auto;}
 .mar_kf:hover{background-position: -380% 50%;background-color:rgba(0,0,0,1)}
 
+.mar_kf p{position: absolute;}
+
 .mar_kf *{transition: all ease 4s;}
 .mar_kf,.kyu_mf{;background-blend-mode: luminosity;}
 
