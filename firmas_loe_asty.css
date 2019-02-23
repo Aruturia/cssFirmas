@@ -2,6 +2,8 @@
 .asty_base_firmas{height: 200px; width: 500px; margin: 0 auto; background-color: #fff; position:relative;}
 .asty_f1 h3,.asty_base_firmas h4,.asty_base_firmas p{font-family:'Megrim';}
 
+
+.mar_kf br{display:none !important}; .mar_kf p br{display:block !important;}
 .mar_kf{height: 250px; width: 500px;background-position: 0% 50%;overflow:hidden;background-color: rgba(0,0,0,0); 
  position:relative; transition: all ease 2.5s; background-size: 90%;background-repeat: no-repeat;margin: 0 auto;}
 .mar_kf:hover{background-position: -380% 50%;background-color:rgba(0,0,0,1)}
