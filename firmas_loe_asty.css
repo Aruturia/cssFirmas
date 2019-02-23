@@ -17,6 +17,6 @@
 
 .kyu_mf{right:-80%; background-position: 50% 0%; height: 250px; width:500px; position: absolute;background-color: rgba(0,0,0,1); background-size: 110%; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
 .mar_kf:hover .kyu_mf{background-position: 25% 0%; right: 0%;background-size: 140%;background-color: rgba(0,0,0,0);}
-.mar_kf:hover .kyu_mf p{opacity: .7; left: left: 120px;}
+.mar_kf:hover .kyu_mf p{opacity: .7; left: 120px;}
 
 .kyu_f{mix-blend-mode: lighten;font-family:'Megrim', cursive;text-align:center;color:#444;background:#fff;width:20%;padding:80px 0;font-size:20px;line-height:30px;}.kyu_f div{font-size:36px;}
