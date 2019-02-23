@@ -6,7 +6,7 @@
  position:relative; transition: all ease 2.5s; background-size: 90%;background-repeat: no-repeat;margin: 0 auto;}
 .mar_kf:hover{background-position: -380% 50%;background-color:rgba(0,0,0,1)}
 
-.mar_kf p{position: absolute;transition: all ease 2.5s;background: #fff;padding: 8px;opacity: .7;color: #444;font-size: 9px !important;}
+.mar_kf p{background: #fff;padding: 8px;opacity: .7;color: #444;font-size: 9px !important;}
 .mar_kf .kyu_mf p{bottom: 20px;width: 250px;left: 0px;text-align: center; opacity:0;}
 
 .mar_kf p:first-child{bottom: 20px;right: 120px;}
