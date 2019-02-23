@@ -15,7 +15,7 @@
 .mar_kf *{-webkit-transition: all ease 4s;-moz-transition: all ease 4s;-o-transition: all ease 4s;transition: all ease 4s;}
 .mar_kf,.kyu_mf{;background-blend-mode: luminosity;}
 
-.kyu_mf{right:-80%; background-position: 50% 0%; height: 250px; width:500px; position: absolute;background-color: rgba(0,0,0,1); background-size: 140%; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
+.kyu_mf{background-image: url(https://i.imgur.com/wcqMpBj.png);right:-80%; background-position: 50% 0%; height: 250px; width:500px; position: absolute;background-color: rgba(0,0,0,1); background-size: 140%;}
 .mar_kf:hover .kyu_mf{background-position: 25% 0%; right: 0%;background-size: 140%;background-color: rgba(0,0,0,0);}
 .mar_kf:hover .kyu_mf p{opacity: .7; left: 120px;}
 
