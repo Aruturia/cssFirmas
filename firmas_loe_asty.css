@@ -3,7 +3,7 @@
 .asty_f1 h3,.asty_base_firmas h4,.asty_base_firmas p{font-family:'Megrim';}
 
 .mar_kf{height: 250px; width: 500px;background-position: 0% 50%;overflow:hidden;background-color: rgba(0,0,0,0); 
- position:relative; transition: all ease 2.5s; background-size: 90%;background-repeat: no-repeat;margin: 0 auto;}
+ position:relative; -webkit-transition: all ease 2.5s;-moz-transition: all ease 2.5s;-o-transition: all ease 2.5s;transition: all ease 2.5s; background-size: 90%;background-repeat: no-repeat;margin: 0 auto;}
 .mar_kf:hover{background-position: -380% 50%;background-color:rgba(0,0,0,1)}
 
 .mar_kf p{position: absolute; background: #fff;padding: 8px;opacity: .7;color: #444;font-size: 9px !important;}
@@ -12,7 +12,7 @@
 .mar_kf p:first-child{bottom: 20px;right: 120px;width: 200px;text-align: center;}
 .mar_kf:hover p:first-child{opacity:0; right: 300px;}
 
-.mar_kf *{transition: all ease 4s;}
+.mar_kf *{-webkit-transition: all ease 4s;-moz-transition: all ease 4s;-o-transition: all ease 4s;transition: all ease 4s;}
 .mar_kf,.kyu_mf{;background-blend-mode: luminosity;}
 
 .kyu_mf{right:-80%; background-position: 50% 0%; height: 250px; width:500px; position: absolute;background-color: rgba(0,0,0,1); background-size: 140%; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
