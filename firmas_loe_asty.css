@@ -6,5 +6,5 @@
 .mar_kf:hover{background-position: -20% 50%;}
 .mar_kf *{transition: all ease 2s;}
 
-.kyu_mf{right:-80%; height: 250px; width:500px; position: absolute; background-size: cover; background-position: 50% 50%; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
-.kyu_mf:hover{background-position: 0% 50%; right:0;}
+.kyu_mf{right:-80%; background-position: 50% 20%; height: 250px; width:500px; position: absolute; background-size: cover; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
+.kyu_mf:hover{background-position: 0% 20%; right:0;}
