@@ -12,4 +12,4 @@
 .kyu_mf{right:-80%; background-position: 50% 0%; height: 250px; width:500px; position: absolute;background-color: rgba(0,0,0,1); background-size: 110%; background-image: url(https://i.imgur.com/EyYttOD.jpg)}
 .mar_kf:hover .kyu_mf{background-position: 120% 0%; right: 0%;background-size: 120%;background-color: rgba(0,0,0,0);}
 
-.kyu_f{margin:0 auto;color:#444;background:#fff;width:20%;padding:55px 0;font-size:20px;line-height:30px;}.kyu_f div{font-size:36px;}
+.kyu_f{font-family:'Megrim', cursive;text-align:center;color:#444;background:#fff;width:20%;padding:55px 0;font-size:20px;line-height:30px;}.kyu_f div{font-size:36px;}
