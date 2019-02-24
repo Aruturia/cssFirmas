@@ -23,4 +23,4 @@
 width: 250px;right: 0;text-align: right;font-family: 'Megrim', cursive;font-weight: bold;}
 .mar_kf .kyu_mf p:after{content:'Kyuko Madarame';}
 
-.kyu_f{mix-blend-mode: lighten;font-family:'Megrim', cursive;text-align:center;color:#444;background:#fff;width:20%;padding:80px 0;font-size:20px;line-height:30px;}.kyu_f div{font-size:36px;}
+.kyu_f{z-index: 900;position: relative;mix-blend-mode: lighten;font-family:'Megrim', cursive;text-align:center;color:#444;background:#fff;width:20%;padding:80px 0;font-size:20px;line-height:30px;}.kyu_f div{font-size:36px;}
