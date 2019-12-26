@@ -3,7 +3,7 @@
 .dvaF{width:500px;height:200px;background-size:cover;background-position:center;margin:0 auto;
 position:relative;text-align:center;}
 .dvaF div{background:rgba(0,0,0,0);
-width:100px;border-right:1px solid;}
+width:100px;border-left:1px solid;}
 .dvaT{position:absolute;bottom:12px;right:12px;padding:12px;}
 .dvaF h4{border-bottom:1px solid;position:absolute;padding:12px;
 font-size:5.5em;font-weight:100;color:#fff;text-shadow:1px 0#f00,-1px 0 #00f;font-family:Great Vibes;
