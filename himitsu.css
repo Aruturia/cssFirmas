@@ -9,3 +9,5 @@ width:100px;border-right:1px solid;}
 font-size:4.5em;font-weight:100;color:#fff;text-shadow:1px 0#f00,-1px 0 #00f;font-family:Great Vibes;
 z-index:9;bottom: 25px;width:150px;text-indent:64px;}.dvaF a{position:absolute;top: 54px;right: 12px;padding:12px 40px;
 border-right:1px solid;color:#ccc;transition:all ease .2s;}.dvaF a:hover{border-width:8px;color:#eee; letter-spacing:4px}
+.dvaFrase{width: 124px;padding: 12px;position: absolute;top: 30px;left: 60px;color:#bbb;border: 1px solid; position:relative;}
+.dvaFrase span{position:absolute;}
