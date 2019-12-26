@@ -2,7 +2,7 @@
 .dvaF br{display:none;}
 .dvaF{width:500px;height:200px;background-size:cover;background-position:center;margin:0 auto;
 position:relative;text-align:center;}
-.dvaF div{background:rgba(0,0,0,.8);
+.dvaF div{background:rgba(0,0,0,0);
 width:100px;border-right:1px solid;}
 .dvaT{position:absolute;bottom:12px;right:12px;padding:12px;}
 .dvaF h4{border-bottom:1px solid;position:absolute;padding:12px;
