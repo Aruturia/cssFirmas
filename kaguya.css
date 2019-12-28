@@ -1,0 +1,17 @@
+.llunaT br{display:none;}
+.lluna{width:500px;height:200px;background-size:cover;background-position:center;margin:0 auto;
+position:relative;text-align:center;}
+.llunaT div{background: rgba(34, 34, 34, 0.7);
+width: 100px;
+border-right: 1px solid;
+width:100px;border-right:1px solid;}
+.dvaT{position:absolute;bottom:12px;right:12px;padding:12px;}
+.llunaT h4{border-bottom:1px solid;position:absolute;padding:12px;
+font-size:4.5em;font-weight:100;color:#aaa;text-shadow: 2px 0 2px #ff00a7,-2px 0 #00e7ff;font-family:Great Vibes;
+z-index:9;bottom: 25px;width:150px;text-indent:64px;}.llunaT a{position:absolute;top: 54px;right: 12px;padding:12px 40px;
+border-right: 1px solid #ff00a7;color:#ccc;transition:all ease .2s;
+text-shadow: 3px 0 1px #ff00a7,-3px 0 1px #00e7ff;
+box-shadow: 3px 1px 1px #ff00a7,-3px -1px 1px #00e7ff;}
+.llunaT a:hover{border-width:8px;color:#eee; letter-spacing:4px;box-shadow: 5px 2px 4px #ff00a7,-5px -2px 4px #00e7ff;}
+.llunaT .llunarase{width: 120px;padding: 12px;position: absolute;top: 30px;left: 40px;color:#bbb;border: 1px solid; position:relative;}
+.llunarase span{position:absolute;font-size: 120px;top: 16px;}
